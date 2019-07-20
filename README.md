@@ -25,4 +25,9 @@ Instructions on replacing the original cable chain on the Formbot T-Rex 3
 
 ## Finishing 
 
-17. 
+17. Feed the thermistor wire through the cable chain.
+18. Reattach the cable chain to the bed the same way it came off. Use the first hole in the cable chain mount.
+19. Use the T-Nut and screw that came with the new cable chain to secure it in the same place the old one came off. Again, use the first hole in the cable chain end. 
+20. Reattach the white AC wires. 
+21. Ensure that there is enough slack in the wires at the bed side of the cable chain that it has some room to bend with the movement of the bed.
+22. Resecure the wires in the same locations using the zip ties. Reattach the thermistor wires and put the cover back on the power distribution board. 
